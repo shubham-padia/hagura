@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "My Journey through Fossasia's Codeheat"
+title:  "Journey through Codeheat"
 date:   2017-02-17 18:34:56 +0530
 categories: fossasia
 ---
+
+###My journey Through Fossasia's ccodeheat contest
 Better late than never. Academics have been pretty hectic lately and I finally got some time to pen down my experience through fossasia's Codeheat (In the heat of code) Contest.
 
 There was always something that fascinated me about the web.I started out with web development in the first year of my undergrad and over the summer I thought it was time to apply these skills on some real projects. So I was looking for an open source organisation to contribute and sharpen my skills, and that's when I came across fossasia. The community was so welcoming and wonderful and the Open Event project(eventyay) just caught my eye.
