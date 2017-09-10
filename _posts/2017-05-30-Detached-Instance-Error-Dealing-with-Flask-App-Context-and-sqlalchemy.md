@@ -5,6 +5,7 @@ date:   2017-05-30 18:34:56 +0530
 categories: gsoc
 ---
 ![Celery]({{site.baseurl}}/images/celery.jpg)
+
 In the open event server project, we had chosen to go with celery for async background tasks. From the official website,
 #### What is celery?
 Celery is an asynchronous task queue/job queue based on distributed message passing.
