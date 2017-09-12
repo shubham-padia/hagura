@@ -4,7 +4,7 @@ title:  "Isolating each request in Dredd testing for Flask"
 date:   2017-06-07 18:34:56 +0530
 categories: gsoc
 ---
-![Dredd]({{site.baseurl}}/images/dredd.jpg)
+![Dredd]({{site.baseurl}}/images/dredd.png)
 
 
 In the [Open Event Server](https://github.com/fossasia/open-event-orga-server), we are using [Api-blueprint](https://apiblueprint.org/) along with [aglio](https://github.com/danielgtaylor/aglio) for API documentation in the project. The foremost concern with any API documentation is making sure it remains updated to the actual implementation of the API backend.
@@ -67,4 +67,3 @@ Relevant links:
 - API-Blueprint: https://apiblueprint.org/
 - Dredd: https://github.com/apiaryio/dredd
 - Dredd-hooks-python: https://github.com/apiaryio/dredd-hooks-python
-        
